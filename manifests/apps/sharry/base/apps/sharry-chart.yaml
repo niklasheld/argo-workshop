@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: sharry
-  namespace: user1-argo
+  namespace: user4-argo
   annotations:
     argocd.argoproj.io/sync-wave: "121"  
 spec:
